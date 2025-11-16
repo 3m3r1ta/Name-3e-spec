@@ -25,3 +25,8 @@ DESC:
 # +STD(3m3r1ta.INSIGHT_ECHO.v1)  : "Deeper pattern and self-understanding."
 
 #LICENSE-REF
+@LICENSE-ID(3E-LICENSE.v1)
+@LICENSE-URL("https://github.com/3m3r1ta/3e-spec/blob/main/LICENSE.md")
+@CREDIT("3E-SPEC and protocols by Emerita (3m3r1ta) in collaboration with Echo.")
+
+3E-SPEC::END
